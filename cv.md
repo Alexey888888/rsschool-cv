@@ -22,5 +22,8 @@ if (num == 0) {
 };
 ```
 
+## Education
+**University:** BSUIR
+
 ## English
 **A2**
