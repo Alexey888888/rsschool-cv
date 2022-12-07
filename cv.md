@@ -21,3 +21,6 @@ if (num == 0) {
     alert (1)
 };
 ```
+
+## English
+**A2**
