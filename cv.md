@@ -30,3 +30,11 @@ let arr = [];
 }
 
 ```
+
+## Education
+
+**University:** BSUIR
+
+## English
+
+**A2**
